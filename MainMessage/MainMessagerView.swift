@@ -1,8 +1,8 @@
 //
 //  MainMessagesView.swift
-//  LBTASwiftUIFirebaseChat
+// 
 //
-//  Created by Brian Voong on 11/13/21.
+//  
 //
 
 import SwiftUI
